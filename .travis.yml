@@ -3,4 +3,3 @@ script: ./gradlew clean check test build
 
 jdk:
   - oraclejdk8
-  - oraclejdk7
