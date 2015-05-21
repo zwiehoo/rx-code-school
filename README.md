@@ -1,2 +1,4 @@
-# rx-code-school
-Rx Code School Examples
+rx-code-school
+==============
+
+RxJava Code School Examples
