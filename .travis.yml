@@ -2,4 +2,5 @@ language: java
 script: ./gradlew clean check test build
 
 jdk:
-        - oraclejdk8
+  - oraclejdk8
+  - oraclejdk7
